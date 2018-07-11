@@ -28,8 +28,8 @@ ImgProcessPlatform
 <br>
 
 **项目结构**
-- 想做的架构
-![Alt text] (https://raw.githubusercontent.com/zhutianpeng/ImgProcessPlatform/master/readme_pic/1.png)
-- 目前的结构
- ![Alt text] (https://raw.githubusercontent.com/zhutianpeng/ImgProcessPlatform/master/readme_pic/2.png)
+- To do...
+![alt text] (https://raw.githubusercontent.com/zhutianpeng/ImgProcessPlatform/master/readme_pic/1.png)
+- Already done:
+![alt text] (https://raw.githubusercontent.com/zhutianpeng/ImgProcessPlatform/master/readme_pic/2.png)
 <br>
