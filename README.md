@@ -29,9 +29,8 @@ ImgProcessPlatform
 
 **项目结构**
 - 想做的架构
- ![Alt text] (https://github.com/zhutianpeng/ImgProcessPlatform/blob/master/readme_pic/%E5%9F%BA%E4%BA%8E%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1%E7%9A%84%E5%BA%B7%E5%A4%8D%E5%8C%BB%E7%96%97%E5%B9%B3%E5%8F%B0%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png)
-
+![Alt text] (https://github.com/zhutianpeng/ImgProcessPlatform/raw/master/readme_pic/%E5%9F%BA%E4%BA%8E%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1%E7%9A%84%E5%BA%B7%E5%A4%8D%E5%8C%BB%E7%96%97%E5%B9%B3%E5%8F%B0%E7%9A%84%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84.png)
 - 目前的结构
- ![Alt text] (https://github.com/zhutianpeng/ImgProcessPlatform/blob/master/readme_pic/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
+ ![Alt text] (https://github.com/zhutianpeng/ImgProcessPlatform/raw/master/readme_pic/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.png)
 
 <br>
