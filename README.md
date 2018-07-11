@@ -25,3 +25,8 @@ ImgProcessPlatform
 ├─activemq.xml                                  这份配置文件要替换到activemq里面，帮助工程与activemq对接（减少大小限制）
 │
 ```
+<br>
+
+**项目结构**
+
+<br>
