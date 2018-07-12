@@ -28,8 +28,7 @@ ImgProcessPlatform
 <br>
 
 **项目结构**
-- To do...
-![alt text] (https://raw.githubusercontent.com/zhutianpeng/ImgProcessPlatform/master/readme_pic/1.png)
-- Already done:
-![alt text] (https://raw.githubusercontent.com/zhutianpeng/ImgProcessPlatform/master/readme_pic/2.png)
-<br>
+ ![To do...](https://github.com/zhutianpeng/ImgProcessPlatform/raw/master/readme_pic/1.png)
+
+ ![Already done] (https://github.com/zhutianpeng/ImgProcessPlatform/raw/master/readme_pic/2.png)
+
