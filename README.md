@@ -30,5 +30,5 @@ ImgProcessPlatform
 **项目结构**
  ![To do...](https://github.com/zhutianpeng/ImgProcessPlatform/raw/master/readme_pic/1.png)
 
- ![Already done] (https://github.com/zhutianpeng/ImgProcessPlatform/raw/master/readme_pic/2.png)
+ ![Already done](https://github.com/zhutianpeng/ImgProcessPlatform/raw/master/readme_pic/2.png)
 
